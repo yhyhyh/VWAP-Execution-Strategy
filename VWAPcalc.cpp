@@ -1,5 +1,5 @@
 /*-----------------------------------------------------------------------------
-* File: ProcOrderBook.cpp
+* File: VWAPcalc.cpp
 *     Get information from the orders flow from the exchange. Generate price
 *     and volume series for a specific ticker (SPY here).
 * Purpose: Course project 1 for ORIE 5255: Real-time Risk
