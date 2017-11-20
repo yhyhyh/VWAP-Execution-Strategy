@@ -104,7 +104,7 @@ int main () {
 
     //outputfile << "time,price,quantity" << endl;
 
-    while (getline(inputfile, line) != 0) {
+    while (getline(inputfile, line)) {
 
         transvolume = 0;
 
