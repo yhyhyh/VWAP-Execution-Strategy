@@ -1,5 +1,5 @@
 compile: ProcOrderBook.cpp
-	g++ -c ProcOrderBook.cpp
-	g++ -o ProcOrderBook ProcOrderBook.cpp
+	g++ -std=c++ -c ProcOrderBook.cpp
+	g++ -std=c++ -o ProcOrderBook ProcOrderBook.cpp
 	./ProcOrderBook
 	rm *.o
